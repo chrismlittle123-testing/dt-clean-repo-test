@@ -1,0 +1,3 @@
+# Clean repo with no issues
+[code.linting.eslint]
+enabled = true
